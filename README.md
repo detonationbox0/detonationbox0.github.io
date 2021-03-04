@@ -1,5 +1,3 @@
-# Todd's GitHub
-
 ## Mock-ups
 
 * [Art Queue Design (Work in Progress)](https://detonationbox0.github.io/art-queue/)
